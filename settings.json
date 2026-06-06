@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Trybeatme",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Shimpanzini.aternos.me",
