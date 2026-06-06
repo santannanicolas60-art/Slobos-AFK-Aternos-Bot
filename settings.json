@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Shimpanzini.aternos.me",
-    "port": 45635,
+    "port":45635,
     "version": "",
     "try-creative": false
   },
